@@ -92,6 +92,14 @@ def predict_and_display(image):
 
     return predicted_label
 
+sample_index = 10
+predicted_label = predict_and_display(test_images[sample_index])
+print(f'Actual Label: {np.argmax(test_labels[sample_index])}')
+
 sample_index = 15
+predicted_label = predict_and_display(test_images[sample_index])
+print(f'Actual Label: {np.argmax(test_labels[sample_index])}')
+
+sample_index = 20
 predicted_label = predict_and_display(test_images[sample_index])
 print(f'Actual Label: {np.argmax(test_labels[sample_index])}')
