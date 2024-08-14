@@ -194,3 +194,7 @@ Output looks like this:
 ![image](https://github.com/user-attachments/assets/091e5680-095f-495d-9076-8cb9aa3a0d47)
 
 ![image](https://github.com/user-attachments/assets/7b662a8b-18ff-4313-b880-46311d986a4b)
+
+## License
+
+[MIT License](LICENSE)
